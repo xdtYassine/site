@@ -1,0 +1,5 @@
+baseurl = "https://test-ye.netlify.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "twentyfourteen"
+
